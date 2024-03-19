@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-19T16:55:29 CET" name="Our First Suite" finished-at="2024-03-19T16:55:57 CET" duration-ms="28119">
+    <groups>
+    </groups>
+    <test started-at="2024-03-19T16:55:29 CET" name="YouTube test" finished-at="2024-03-19T16:55:57 CET" duration-ms="28119">
+      <class name="TestYoutube">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestYoutube@25fb8912]" started-at="2024-03-19T16:55:29 CET" name="setup" finished-at="2024-03-19T16:55:35 CET" duration-ms="6078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPlayMyFavoriteMusicOnYouTube()[pri:0, instance:TestYoutube@25fb8912]" started-at="2024-03-19T16:55:35 CET" name="testPlayMyFavoriteMusicOnYouTube" description="Test to play my favorite music on Youtube" finished-at="2024-03-19T16:55:57 CET" duration-ms="21683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlayMyFavoriteMusicOnYouTube -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestYoutube@25fb8912]" started-at="2024-03-19T16:55:57 CET" name="tearDown" finished-at="2024-03-19T16:55:57 CET" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestYoutube -->
+    </test> <!-- YouTube test -->
+  </suite> <!-- Our First Suite -->
+</testng-results>
