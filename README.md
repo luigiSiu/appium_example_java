@@ -1,0 +1,1 @@
+This example follows this article [Android App Automation Complete Guide With Java, Appium 2, Gradle, TestNG and Android Emulator For Beginner](https://medium.com/@dhadiprasetyo/android-app-automation-complete-guide-with-java-appium-2-gradle-testng-and-android-emulator-for-998ecd8498b0)
